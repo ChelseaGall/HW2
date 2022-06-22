@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>URL</key>
-	<string>https://github.com/ChelseaGall/HW2/blob/main/README.md</string>
-</dict>
-</plist>
+The code prompts the user for the input and output files. It then creates a PrintWriter object and opens the file. It then reads the data from the file and tokenizes it. It then calculates the total sum of the items' prices in the file, the tax, and the max and min prices. Finally, it displays a completion message.
+
+The code first prompts the user for the input and output files. It then creates a PrintWriter object and opens the file.
+
+Next, the code reads the data from the file and tokenizes it. It then calculates the total sum of the items' prices in the file, the tax, and the max and min prices.
+
+Finally, the code displays a completion message.
