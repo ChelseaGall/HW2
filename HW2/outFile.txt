@@ -1,0 +1,9 @@
+Report from 01-09 to 03-16
+
+The total is $71.00
+
+The tax is $ 0.63
+
+The highest price item is #555 at $24.00
+
+The lowest price item is # at $ 1.00
